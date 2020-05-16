@@ -47,6 +47,7 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 ## Section 4: Engineering Ethics
 
 1. The ACM's code of conduct asserts an idea that I associate with engineering in general, that it is ideally about creating and utilizing technologies that make life easier and better for humanity.
+
    The code's take on unauthorized access to computer systems is novel and interesting to me. It argues that a computing professional may attain unauthorized access to a system under certain circumstances. This makes sense in context, as the code explains that this can only be done ethically if the system in question is being used for malicious purposes.
 2. The Microsoft open-source code of conduct addresses how the open source community should behave and interact. It is targetted at anyone participating in Microsoft-managed open source communities. The most important element of ethical behavior according to this code is creating a community that is accessible and safe for everyone. The Microsoft managed OSS we have been using for this course is GitHub.
 3. The main ethical aspect that the Royal Society article hints at is that data is the primary source of ethical quandaries with regard to computer technologies, and therefore ought to be the focus of ethical guidelines.
@@ -57,4 +58,5 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 ## Section 5: Codes of Conduct
 
 1. A version of the prisoner's dilemma can be observed with regard to adhering to an ethical code in that there may be certain advantages to gain if one party does not adhere. This party can maintain its advantage as long as it is the only one with that is not adhering to the code. However, if neither party adheres to the code then neither party has an advantage and the code of ethics has, in practice, become irrelevant.
+
    One strategy to maintain adherance to an ethical code would be to thoroughly explain the reasoning behind the code of conduct. If there is general agreement upon the principles behind the ethical code, then most people will adhere to the code to the best of their abilities. However, there are certain people who will will not be persuaded to behave ethically by principled arguments, for that reason it may be necessary to employ other strategies enforce or encourage adherence. An example of a punitive action that can be taken to enforce the ethical code would be to encouraging whistleblowing to "call out" some entity that is acting unethically. Conversely, positive reinforcement can be built in by identifying individuals who hold themselves to high ethical standards so that others can emulate them.
