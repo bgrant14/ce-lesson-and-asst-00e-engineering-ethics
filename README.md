@@ -62,4 +62,5 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
    One strategy to maintain adherance to an ethical code would be to thoroughly explain the reasoning behind the code of conduct. If there is general agreement upon the principles behind the ethical code, then most people will adhere to the code to the best of their abilities. However, there are certain people who will will not be persuaded to behave ethically by principled arguments, for that reason it may be necessary to employ other strategies enforce or encourage adherence. An example of a punitive action that can be taken to enforce the ethical code would be to encouraging whistleblowing to "call out" some entity that is acting unethically. Conversely, positive reinforcement can be built in by identifying individuals who hold themselves to high ethical standards so that others can emulate them.
    
 2. Tech Startup Thought Experiment
-   1. 
+
+   1. A
