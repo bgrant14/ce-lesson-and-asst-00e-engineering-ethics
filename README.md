@@ -76,4 +76,8 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
    
    2. The societal benefits of this innovation include intelligent routing of individuals to avoid traffic, much like modern GPS can do for automotive traffic. This would be of particular use during a disease outbreak, as the foot traffic in open public spaces is not currently monitored and limited the way that foot traffic within places like grocery stores can be. During times when it is appropriate to have mass gatherings in public, it may still be useful for planning a walking route that avoids high-traffic areas or for citizens or tourists to find ongoing public events.
    
-      1. One of the most obvious abuses of this
+      1. One of the most obvious abuses of this technology would be its use as a convenient mass surveilance tool. With facial recognition and a machine-learning systems, it would become much easier for law enforcement agencies or corporations to track individuals in public places. This could be mitigated with the use of strong encryption for any data sent to or from a drone and an algorithm wherever the data is being harvested to remove identifying features from people (e.g. by blurring faces).
+      
+         
+         
+         Another potential issue would be keeping drones from falling out of the sky, potentially causing injury or damaging property. This could be mitigated with regular maintenance and strict monitoring of the status of each drone as well as current and developing weather conditions. Quad-rotor drones already have a fair bit of redundancy, however -- depending on the probability of simultaneous multiple rotor failures -- it may be necessary to use 6- or 8-rotor drones.
