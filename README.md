@@ -72,12 +72,24 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
    
 2. Tech Startup Thought Experiment
 
-   1. My technical innovation would be to use networks of drones equipped with imaging devices to continuously monitor high-density urban areas in order to give real-time foot traffic analysis and predictions.
+   1. My technical innovation would be to use networks of drones equipped with imaging devices to continuously monitor high-density urban areas in order to give real-time foot traffic analyses and predictions.
    
-   2. The societal benefits of this innovation include intelligent routing of individuals to avoid traffic, much like modern GPS can do for automotive traffic. This would be of particular use during a disease outbreak, as the foot traffic in open public spaces is not currently monitored and limited the way that foot traffic within places like grocery stores can be. During times when it is appropriate to have mass gatherings in public, it may still be useful for planning a walking route that avoids high-traffic areas or for citizens or tourists to find ongoing public events.
+   2. The societal benefits of this innovation include intelligent routing of individuals to avoid traffic, much like modern GPS can do for automotive travel. This would be of particular use during a disease outbreak, as the foot traffic in open public spaces is not able to be closely monitored and limited the way that foot traffic within places like grocery stores can be. During periods when it is appropriate to have mass gatherings in public, it may still be useful for planning a walking route that avoids high-traffic areas or for citizens or tourists to find ongoing public events.
    
-      1. One of the most obvious abuses of this technology would be its use as a convenient mass surveilance tool. With facial recognition and a machine-learning systems, it would become much easier for law enforcement agencies or corporations to track individuals in public places. This could be mitigated with the use of strong encryption for any data sent to or from a drone and an algorithm wherever the data is being harvested to remove identifying features from people (e.g. by blurring faces).
+      1. One of the most obvious abuses of this technology would be its use as a convenient mass surveilance tool. With facial recognition and a machine-learning system, it would become trivial for law enforcement agencies or corporations to track individuals in public places. This could be mitigated with the use of strong encryption for any data sent to or from a drone and an algorithm wherever the data is being harvested to remove identifying features from people (e.g. by blurring faces).
       
-         
+         This technology could also be used by criminals to plan crimes like robbery or assault as, if the system was displaying up-to-the-minute data, they could stalk and corner a victim and be sure that no one else was close enough to intervene. One way to mitigate this probability would be to time-delay the data by 5 minutes or so, which would make it more difficult to plan criminal activities but still provide useful information for non-criminals. Another solution would be prevent the system from reporting the locations of individuals or small groups, eg. only show the data if there are more than 5 people, each standing within 2 meters of each other.
          
          Another potential issue would be keeping drones from falling out of the sky, potentially causing injury or damaging property. This could be mitigated with regular maintenance and strict monitoring of the status of each drone as well as current and developing weather conditions. Quad-rotor drones already have a fair bit of redundancy, however -- depending on the probability of simultaneous multiple rotor failures -- it may be necessary to use 6- or 8-rotor drones.
+         
+      2. Immediately upon launch, the benefit of this innovation would be that people could regulate their own access to crowded public spaces and plan according to current risks. The primary detriment might be a public perception that there is an "eye in the sky" and a resulting increase in certain peoples' agoraphobic tendencies.
+      
+         After the innovation had become an accepted part of everyday life, the benefits of substantially easier and more effective route planning for pedestrians will have been fully realized. The detriment might be an increased awareness by certain organizations that the technology has uses which violate the average citizens' right to privacy.
+         
+3. Ensuring that privacy is built into the core of the software would be paramount to ethically and responsibly implementing this technology. It would make sense to build whatever is technologically feasible into the drone's onboard computer in order to facilitate this, so that non-anonymized data never leaves the drone. Ensuring that respect for individual privacy is at the core of the company culture would be vitally important as well. This could be accomplished through thorough training on the topic as well as questions to vet new hires during the interview process.
+
+4. __Code of Ethics__
+   1. _Respect everyone's right to privacy._ 
+   2. _Take the safety of everyone into account._ 
+   3. _Conider the implications of your actions before you take them._
+   4. _Be honest with yourself and others._ 
