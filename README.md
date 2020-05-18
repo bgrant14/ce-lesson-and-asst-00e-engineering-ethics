@@ -86,7 +86,7 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
       
          After the innovation had become an accepted part of everyday life, the benefits of substantially easier and more effective route planning for pedestrians will have been fully realized. The detriment might be an increased awareness by certain organizations that the technology has uses which violate the average citizens' right to privacy.
          
-3. Ensuring that privacy is built into the core of the software would be paramount to ethically and responsibly implementing this technology. It would make sense to build whatever is technologically feasible into the drone's onboard computer in order to facilitate this, so that non-anonymized data never leaves the drone. Ensuring that respect for individual privacy is at the core of the company culture would be vitally important as well. This could be accomplished through thorough training on the topic as well as questions to vet new hires during the interview process.
+3. Ensuring that privacy is built into the core of the software would be paramount to ethically and responsibly implementing this technology. It would make sense to build whatever is technologically feasible into each drone's onboard computer in order to facilitate this, so that non-anonymized data never leaves the drone. Ensuring that respect for individual privacy is at the core of the company culture would be vitally important as well. This could be accomplished through thorough training on the topic as well as questions to vet new hires during the interview process.
 
 4. __Code of Ethics__
    1. _Respect everyone's right to privacy._ 
