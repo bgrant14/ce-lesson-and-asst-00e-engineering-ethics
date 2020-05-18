@@ -91,5 +91,5 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 4. __Code of Ethics__
    1. _Respect everyone's right to privacy._ 
    2. _Take the safety of everyone into account._ 
-   3. _Conider the implications of your actions before you take them._
+   3. _Consider the implications of your actions before you take them._
    4. _Be honest with yourself and others._ 
